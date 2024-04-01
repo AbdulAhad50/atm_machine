@@ -1,0 +1,19 @@
+{
+  "name": "atm_machine_abdul",
+  "version": "1.0.2",
+  "description": "ATM  MACHINE",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
